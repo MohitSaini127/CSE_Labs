@@ -8,7 +8,7 @@ Academic Session: 2026–2030
 
 ## About This Repository
 
-This repository contains my CSE103 lab work and assignment submissions. It includes completed practical exercises, documentation, screenshots, and PDF records organized for academic reference and submission.
+This repository contains my CSE103 lab work and assignment submissions. It includes practical exercises, documentation, screenshots, and PDF records organized for academic reference and submission.
 
 ## Repository Structure
 
@@ -24,14 +24,15 @@ CSE_Labs/
 ├── LAB3/
 │   └── Assignment files
 │
+├── LAB4/
+│   └── Assignment files
+│
 └── README.md
 ```
 
-*The folder structure above is illustrative. Actual contents are organized according to the uploaded files.*
-
 ## Contents
 
-- Practical lab exercises
+- Lab practical exercises
 - Assignment submissions
 - PDF documentation
 - Screenshots and supporting records
